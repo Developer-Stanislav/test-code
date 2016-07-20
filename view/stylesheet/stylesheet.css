@@ -1,0 +1,26 @@
+
+/*html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #666666;
+    text-rendering: optimizeLegibility;
+}*/
+#footer {
+    height: 100px;
+    text-align: center;
+}
+
+.table a.asc:after {
+    content: " \f107";
+    font-family: FontAwesome;
+    font-size: 14px;
+}
+
+.table a.desc:after {
+    content: " \f106";
+    font-family: FontAwesome;
+    font-size: 14px;
+}
